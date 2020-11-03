@@ -2,7 +2,7 @@
 A funny game using OpenCV
 
 Youtube link: https://youtu.be/Woe9NFGmeXg
-Link download file .dat: http://www.mediafire.com/file/1c8qfqbs662x22j/shape_predictor_68_face_landmarks.dat/file
+<br>Link download file .dat: http://www.mediafire.com/file/1c8qfqbs662x22j/shape_predictor_68_face_landmarks.dat/file
 
 
 #MìAI <br>
